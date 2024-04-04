@@ -229,7 +229,7 @@ TilemapRenderer:
   m_Mode: 0
   m_DetectChunkCullingBounds: 0
   m_MaskInteraction: 0
---- !u!114 &3479394085338964897
+--- !u!114 &918663993858850814
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -241,7 +241,7 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: Palette Settings
   m_EditorClassIdentifier: 
---- !u!114 &4936773452167655657
+--- !u!114 &7431445100686073797
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
