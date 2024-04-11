@@ -21,6 +21,8 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
+Upon playtesting I realised that I had failed to account for the player's immediate impulse to start playing with the new 'toy' of the staff pickup. Putting them in a cramped room in proximity to the spikes meant that testers always ended up losing a heart while testing out the staff. Part of the rewarding nature of discovery is that they should not be penalised for experimentation
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
