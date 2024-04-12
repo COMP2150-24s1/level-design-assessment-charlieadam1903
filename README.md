@@ -36,9 +36,9 @@ How does your level design facilitate autonomy and invite the player to explore?
 Aesthetics and layout decisions in my level were heavily influenced by the dramatic arc I had intended for it, with each space shaped by the feeling I wanted to evoke in the player as they went. The lightness and relaxed nature of section one was meant to ease the player in with an exploratory curiosity and emphasis on play. To make a gentle start to the dramatic arc, I wanted section 1 to be filled with lots of light, airiness and plenty of space to move around. 
 ![Section 1-A](DocImages/section_1_a.jpeg)
 
-Section 2 was designed to be reminiscent of a warren, full of tight, cramped and winding passages with lots of nooks and crannies for the player. That in turn better emphasised the creation of a refuge space shortly after the player gets the staff pickup, breaking through into a room that opens up around both a statue and a health box next to the checkpoint that was visible behind the pillar as an objective lure. The pathlines of section 2, while more constricting than section 1, are far more dynamic in how twisting they are, covering far more vertical and horizontal space as the player traverses.
+Section 2 was designed to be reminiscent of a warren, full of tight, cramped and winding passages with lots of nooks and crannies for the player. That in turn better emphasised the creation of a refuge space shortly after the player gets the staff pickup, breaking through into a room that opens up around both a statue and a health box next to the checkpoint that was visible behind the pillar as an objective lure. The pathlines of section 2, while more constricting than section 1, are far more dynamic in how twisting they are, covering far more vertical and horizontal space as the player traverses. I felt both the indirectness of the path and the use of the blocked openings by the central checkpoint creates the illusion of more autonomy in choosing where the player can go. As opposed to the copious use of negative space in section 1 to maximise its breezy tone, the ramping up of difficulty comes with a refocusing upon positive space and making use of what limited room the player does have to economise their movement.
 
-
+![Section 2 Central Area](DocImages/section_2_central_area)
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
@@ -46,41 +46,48 @@ Storyboards can be combined when multiple mechanics are introduced within a sing
 
 You should restructure the headings below to match the order they appear in your level.
 
-### 2.1. Acid
+
 
 ### 2.2. Checkpoints
 
 ### 2.3. Chompers
 
+### 2.7. Passthrough Platforms
+
 ### 2.4. Health Pickups
 
+### 2.1. Acid
+
+### 2.8. Spikes
 ### 2.5. Keys
 
 ### 2.6. Moving Platforms
 
-### 2.7. Passthrough Platforms
+### 2.11. Weapon Pickup (Staff)
 
-### 2.8. Spikes
 
 ### 2.9. Spitters
 
 ### 2.10. Weapon Pickup (Gun)
 
-### 2.11. Weapon Pickup (Staff)
+
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
+
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-
+![Full Molecule Diagram](DocImages/molecule_dia_full.jpeg)
+![Sections 1 and 2 Molecule Close-up](DocImages/molecules-s1-s2.jpeg)
+![Section 3 Molecule Diagram Close-up](DocImages/molecules-s3.jpeg)
 ### 3.2. Level Map – Section 1
-
+![Section 1 Level Map](DocImages/map_s1a-1b.jpeg)
 ### 3.3.	Level Map – Section 2
-
+![Section 1 Level Map](DocImages/map_s2.jpeg)
 ### 3.4.	Level Map – Section 3
-
+![Section 1 Level Map](DocImages/map_s3.jpeg)
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
