@@ -21,16 +21,23 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-Upon playtesting I realised that I had failed to account for the player's immediate impulse to start playing with the new 'toy' of the staff pickup. Putting them in a cramped room in proximity to the spikes meant that testers always ended up losing a heart while testing out the staff. Part of the rewarding nature of discovery is that they should not be penalised for experimentation
+Upon playtesting I realised that I had failed to account for the player's immediate impulse to start playing with the new 'toy' of the staff pickup. Putting them in a cramped room in proximity to the spikes meant that testers always ended up losing a heart while testing out the staff. Part of the rewarding nature of discovery is that they should not be penalised for experimentation or play, and it was not an intended design goal to force them into needing to be conscious of their surroundings even in times of safety.
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+The moving elevators encounter was designed to play with the tension between states of precarity and stability. Adding the stressor of timing through avoiding the spitter's projectiles
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
-
+The latter also gives the player more room for error, along with flat surfaces just underneath platforms to catch them. 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
+
+Aesthetics and layout decisions in my level were heavily influenced by the dramatic arc I had intended for it, with each space shaped by the feeling I wanted to evoke in the player as they went. The lightness and relaxed nature of section one was meant to ease the player in with an exploratory curiosity and emphasis on play. To make a gentle start to the dramatic arc, I wanted section 1 to be filled with lots of light, airiness and plenty of space to move around. 
+![Section 1-A](DocImages/section_1_a.jpeg)
+
+Section 2 was designed to be reminiscent of a warren, full of tight, cramped and winding passages with lots of nooks and crannies for the player. That in turn better emphasised the creation of a refuge space shortly after the player gets the staff pickup, breaking through into a room that opens up around both a statue and a health box next to the checkpoint that was visible behind the pillar as an objective lure. The pathlines of section 2, while more constricting than section 1, are far more dynamic in how twisting they are, covering far more vertical and horizontal space as the player traverses.
+
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
