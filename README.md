@@ -21,7 +21,9 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-Upon playtesting I realised that I had failed to account for the player's immediate impulse to start playing with the new 'toy' of the staff pickup. Putting them in a cramped room in proximity to the spikes meant that testers always ended up losing a heart while testing out the staff. Part of the rewarding nature of discovery is that they should not be penalised for experimentation or play, and it was not an intended design goal to force them into needing to be conscious of their surroundings even in times of safety.
+Instead of direct written instructions, the player is shown places for exploration and encouraged through sight lines and spatial proximity of objects to experiment and *play* with the new mechanics handed to them. Examples like the visual lures of the checkpoint behind the column in section two, the glimpse of the health box in the overhang part of the refuge space as Ellen descends the pass through platforms and underground, and the placement of the column within the staff room that is close enough for the player to unintentionally hit while instinctively beginning to 'mess around' with the toy
+
+
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -63,12 +65,13 @@ You should restructure the headings below to match the order they appear in your
 
 
 ### 2.2. Checkpoints
-
+Checkpoints are present before they are needed to create a sense of curiosity before they are given a meaning. They are properly introduced in the first acid encounter, if they fall in. They also come to represent a sense of safety and a marker of progress, even in areas without acid.
 ### 2.3. Chompers(& ### 2.7. Passthrough Platforms & ### 2.4. Health Pickups)
 ![healthbox to entice pass-through learning](DocImages/pass-through-to-healthbox.jpeg)
 A slightly hidden optional introduction to pass through platforms positioned under where the player would fall if hit by introductory chomper. No weapons to deal with the chomper, only avoidance.
+Health pickup and pass through platform are also introduced in the acid and spike encounter if the player doesn't engage with the drop down--here, the player passes *up* through the platform as a staircase instead of having to learn how to drop down. Because the 'S + *then* spacebar' controls proved to not be intuitive during playtesting, this is meant to be a more overt way of teaching by showing that they CAN be moved through. Proves important for dropping down into section 2 proper.
 ### 2.1. Acid
-
+The acid is not intented to present a true danger in its introduction, only an immediate point of feedback to prepare the player for it in the future. It is easily jumped over, though requires good timing while jumping over the above chompers to avoid falling in from the impact.
 ### 2.8. Spikes
 ### 2.5. Keys
 
@@ -104,24 +107,39 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
+
+The very backbone of this level is in its iterative design, frankly. Through both playtester observation and cumulative ideation, the level has been through perhaps ten iterations. These were all tweaked for balance, experience, and variety as well as how well they made use of the mechanics taught earlier.  Below are a few selected examples from the DocImages folder of how things changed through development:
+![discarded arena-style platform fight encounter ](DocImages/discarded-concept-1.jpeg)
+![modified discarded arena with a giant chomper ](DocImages/discarded-concept-7.jpeg)
+![bullet-triggered moving platform drops a health box ](DocImages/discarded-concept-2.jpeg)
+![concealed-contact-layer-trigger unleashing a horde of chompers on an apparent refuge space ](DocImages/discarded-concept-4.jpeg)
+![first brainstormed encounter that remained until right near the end ](DocImages/the_killed_darling_encounter.jpg)
+![idea for different paths though the same space](DocImages/general-concept-work.jpeg)
+![discarded 'dropper'-style encounter inspired by one playtester's discovery that you can move Ellen around while falling](DocImages/discarded-dropper-concept.jpeg)
+![post-playtester modifying level so theres only one proper path down instead of dropping down the side ](DocImages/cave-jumper-anti-cheesing-plan.jpeg)
+![the second version of section 3](DocImages/cave-jumper-take-2.jpeg)
+![original version of what becomes section one acid-chomper-spike encounter](DocImages/acid_spike_jumper_design.jpg)
+![second version, after playtester feedback that acid in a level should be a higher intensity encounter later on ](DocImages/acid_spike_jump_iter2.jpg)
 ## Generative AI Use Acknowledgement
+
+
+A particular example of how this level heavily benefitted from iteration was the staff pickup space, which originally didnt have a wide cavern and was directly after the spike plinths. Upon playtesting I realised that I had failed to account for the player's immediate impulse to start playing with the new 'toy' of the staff pickup. Putting the player in a cramped room in proximity to the spikes meant that testers always ended up losing a heart while testing out the staff. Part of the rewarding nature of discovery is that they should not be penalised for experimentation or play, and it was not an intended design goal to force them into needing to be conscious of their surroundings even in times of safety. Therefore, I expanded the space, and then decided that it needed a tunnel to go back to the centre of the section filled with both destructable objects and chompers to engage in melee combat. 
 
 Use the below table to indicate any Generative AI or writing assistance tools used in creating your document. Please be honest and thorough in your reporting, as this will allow us to give you the marks you have earnt. Place any drafts or other evidence inside this repository. This form and related evidence do not count to your word count.
 An example has been included. Please replace this with any actual tools, and add more as necessary.
 
 
 ### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
+**Nature of Use** How dare you assume I would ever use AI outside of at gunpoint
+**Evidence Attached?** My life, my creed, on my honour I did not.
 
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
 
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
 
 ### Tool Used: Example
-**Nature of Use** Example Text
+**Nature of Use** My own two hands
 
-**Evidence Attached?** Example Text
+**Evidence Attached?** my genius could never be touched by the cold corrosion of synthesised words (willfully arrogant)
 
-**Additional Notes:** Example Text
+**Additional Notes:** Hey since this doesnt go to the word count you can't get mad at me for goofing off in this section right? Come on I put so much effort into the rest of it
 
 
