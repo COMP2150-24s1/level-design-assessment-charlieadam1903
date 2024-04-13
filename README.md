@@ -21,17 +21,17 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
-Instead of direct written instructions, the player is shown places for exploration and encouraged through sight lines and spatial proximity of objects to experiment and *play* with the new mechanics handed to them. Examples like the visual lures of the checkpoint behind the column in section two, the glimpse of the health box in the overhang part of the refuge space as Ellen descends the pass through platforms and underground, and the placement of the column within the staff room that is close enough for the player to unintentionally hit while instinctively beginning to 'mess around' with the toy
+Instead of direct written instructions, the player is shown places for exploration and encouraged through sight lines and spatial proximity of objects to experiment and *play* with the new mechanics handed to them. Examples like the visual lures of the checkpoint behind the column in section two, the glimpse of the health box in the overhang part of the refuge space as Ellen descends the pass through platforms and underground, and the placement of the column within the staff room that is close enough for the player to unintentionally hit while instinctively beginning to 'mess around' with the toy. Areas like the centre of section two, where the drop-down underground is, hint at things to be discovered and mastered though exploration and developing their skills with the controls. Things like the moving platforms are explored in a variety of ways, as an elevator to previously unnoticed secrets (section 1, the key), as a way to cross large gaps (section 2, end of tunnel), and moving platforms as an interconnected system of movement to navigate (section 3 , first encounter). This continues to draw new, incidental connections for their use through the player's curiosity, and rewards the player for doing so with earlier gleaned knowledge of game mechanics (the pass-through health box introduction in section 1).
 
 
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
-The dramatic curve mapped to the level is  married to the spatial narrative and design of the level, with the sense of freedom and playful exploration from section 1 deepening into the growing tension and complexity amidst the tight spaces and frustration of the more technical encounters. Section 1 uses a slow incline in intensity while remaining fairly light, before an upward spike of surprising gameplay from the elevator moving UP to the newly revealed key before going down the visible gap. 
-The moving elevators encounter was designed to play with the tension between states of precarity and stability. Adding the stressor of timing through avoiding the spitter's projectiles
+The dramatic curve mapped to the level is  married to the spatial narrative and design of the level, with the sense of freedom and playful exploration from section 1 deepening into the growing tension and complexity amidst the tight spaces and frustration of the more technical encounters. Section 1 uses a slow incline in intensity while remaining fairly light, before an upward spike of surprising gameplay from the elevator moving UP to the newly revealed key before going down the visible gap. Much of the drama, connected with exploration and challenge, is linked in the following two sections
+
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
-One of the biggest challenges is agility and speed in what is designed to be a dexterous platform experience.
+One of the biggest challenges is agility and speed in what is designed to be a dexterous, fast-moving platform experience ( 4-5 minutes playtime based on the expectation of the player going for the speed approach)
 
 
 
@@ -52,7 +52,9 @@ How does your level design facilitate autonomy and invite the player to explore?
 Aesthetics and layout decisions in my level were heavily influenced by the dramatic arc I had intended for it, with each space shaped by the feeling I wanted to evoke in the player as they went. The lightness and relaxed nature of section one was meant to ease the player in with an exploratory curiosity and emphasis on play. To make a gentle start to the dramatic arc, I wanted section 1 to be filled with lots of light, airiness and plenty of space to move around. 
 ![Section 1-A](DocImages/section_1_a.jpeg)
 
-Section 2 was designed to be reminiscent of a warren, full of tight, cramped and winding passages with lots of nooks and crannies for the player. That in turn better emphasised the creation of a refuge space shortly after the player gets the staff pickup, breaking through into a room that opens up around both a statue and a health box next to the checkpoint that was visible behind the pillar as an objective lure. The pathlines of section 2, while more constricting than section 1, are far more dynamic in how twisting they are, covering far more vertical and horizontal space as the player traverses. I felt both the indirectness of the path and the use of the blocked openings by the central checkpoint creates the illusion of more autonomy in choosing where the player can go. As opposed to the copious use of negative space in section 1 to maximise its breezy tone, the ramping up of difficulty comes with a refocusing upon positive space and making use of what limited room the player does have to economise their movement.
+Section 2 was designed to be reminiscent of a warren, full of tight, cramped and winding passages with lots of nooks and crannies for the player. That in turn better emphasised the creation of a refuge space shortly after the player gets the staff pickup, breaking through into a room that opens up around both a statue and a health box next to the checkpoint that was visible behind the pillar as an objective lure. The pathlines of section 2, while more constricting than section 1, are far more dynamic in how twisting they are, covering far more vertical and horizontal space as the player traverses. I felt both the indirectness of the path and the use of the blocked openings by the central checkpoint creates the illusion of more autonomy in choosing where the player can go. As opposed to the copious use of negative space in section 1 the ramping up of difficulty comes with a refocusing upon positive space and movement within it. 
+
+Section three is precarious and tense with an unknown danger underneath the floating platforms, transforming the negative space of section 1 into a source of anxiety instead of comfort, as well as opening up the space after the claustrophobic tunnels of the last area. 
 
 ![Section 2 Central Area](DocImages/section_2_central_area)
 ## 2. Core Gameplay (~400 words)
@@ -73,19 +75,22 @@ Health pickup and pass through platform are also introduced in the acid and spik
 ### 2.1. Acid
 The acid is not intented to present a true danger in its introduction, only an immediate point of feedback to prepare the player for it in the future. It is easily jumped over, though requires good timing while jumping over the above chompers to avoid falling in from the impact.
 ### 2.8. Spikes
-### 2.5. Keys
+![spikes and acid intro storyboard](DocImages/spike-and-acid-sboard.jpeg)
+similar intent as acid
+### 2.5. Keys ### 2.6. Moving Platforms
+elevator requires no skill floor to use, just has to be stood on and moves up, then down. key revealed through section 1 elevator, requires player to jump for it.
 
-### 2.6. Moving Platforms
-
+![moving platform and key introduction](DocImages/mover-and-key-sboard.jpeg)
 ### 2.11. Weapon Pickup (Staff)
-
-
+![intro to staff](DocImages/staff-pickup-sb.jpeg)
+staff both as a way to break obstacles and also a melee weapon
 ### 2.9. Spitters
-![Spitter introduction](DocImages/cave-jumper-take-2)
+![Spitter introduction](DocImages/spitter-sboard.jpeg)
+spitter can both injure player and knock em off platforms from afar
 ### 2.10. Weapon Pickup (Gun)
+![gun intro](DocImages/gun-pickup-sboard.jpeg)
 
-
-
+gun introduced as both weapon and trigger for mechanisms
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
@@ -108,7 +113,7 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 
-The very backbone of this level is in its iterative design, frankly. Through both playtester observation and cumulative ideation, the level has been through perhaps ten iterations. These were all tweaked for balance, experience, and variety as well as how well they made use of the mechanics taught earlier.  Below are a few selected examples from the DocImages folder of how things changed through development:
+The very backbone of this level is in its iterative design, frankly. Through both playtester observation and cumulative ideation, the level has been through perhaps ten iterations. These were all tweaked for balance, experience, and variety as well as how well they made use of the mechanics taught earlier.  Below are a few selected examples from the DocImages folder of how things changed through development (context captions provided in alts):
 ![discarded arena-style platform fight encounter ](DocImages/discarded-concept-1.jpeg)
 ![modified discarded arena with a giant chomper ](DocImages/discarded-concept-7.jpeg)
 ![bullet-triggered moving platform drops a health box ](DocImages/discarded-concept-2.jpeg)
