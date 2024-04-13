@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: [Charlie Adam]
+### Student number: [46964215] 
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
@@ -25,10 +25,24 @@ Upon playtesting I realised that I had failed to account for the player's immedi
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
-
+The dramatic curve mapped to the level is  married to the spatial narrative and design of the level, with the sense of freedom and playful exploration from section 1 deepening into the growing tension and complexity amidst the tight spaces and frustration of the more technical encounters. Section 1 uses a slow incline in intensity while remaining fairly light, before an upward spike of surprising gameplay from the elevator moving UP to the newly revealed key before going down the visible gap. 
 The moving elevators encounter was designed to play with the tension between states of precarity and stability. Adding the stressor of timing through avoiding the spitter's projectiles
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+One of the biggest challenges is agility and speed in what is designed to be a dexterous platform experience.
+
+
+
+I wanted sections dedicated to emphasising one set of mechanics at a time and then gradually coming to build on them. Section 1 is both to reinforce the importance of the movement controls as first and foremost and to create a sense of vulnerability against the few monsters they are exposed to, all of which are melee-based to prompt evasive movement at close quarters. I wanted the progression of challenge foremost to feel natural and connected to the spaces within the level. Section 1 favours making brief contact with things utilised later in the level in conjunction with learning the nuances within jumping and crouching. For example, the second encounter of the section focuses on teaching the player how to shorten their jumps within a cramped space--set slightly above a safety platform patrolled by chompers. Having already likely experienced their reflexes, the mild anxiety of the threat drives the player to perform harder, absorbing them in the task of improvement. Likewise the brief presence of spikes and a small pool of acid to jump over are used to create a sense of tension balanced out by the calmness and leniency of the section jumps and the ability to easily climb back up if they fall. The immediate feedback of damage within a lower stakes setting warns them ahead of time of harder challenges while remaining inside a controlled setting.
+
+
+Section 2 immediately puts into practice the player's learning from the stepping stones and crystals in section 1 with short, precise jumps as they descend below ground. The enticement of new areas behind a physical obstacle provides a clear goal as well as the promise of choice in direction, as they come to the realisation that to reach the place they must search for something to break through. It also foreshadows the secondary mechanic of the staff to break objects, challenging them to find a way to get through the pillar. The tighter jumps of section one are further put to use in reaching the staff, as the player nagivates a series of spike-studded plinths before reaching a checkpoint as a moment of relief in the same room as the staff pickup. Here the tension is diffused as they begin to play with the staff in a point of safety, before, at their own choosing, they can break the  pillar and descend into a tunnel filled with a hefty lineup of chompers to test out and hone the capabilities of their staff in tandem with their movement to avoid running into the chompers. This is succeeded with a point of refuge in the statue room and checkpoint, and an overhang of rock with an optional chomper encounter in order to obtain an extra health pickup, before the drop to section 3.
+
+
+Section 3 is meant to convey a sense of the 'safety rails' having been removed---the entire section suspended over a lake of acid only visible if the player is about to fall in, and an entire outcropping of spikes underneath one of the platform encounters as a very present stressor. Having already been introduced to the acid in section one, it is now a threat present in the absence of solid ground--removing the safety platforms and guiding walls of the last two sections. The lack of certainty about what waits underneath adds a new level of stress to engage the player as they put their platforming skills to the test once more, in a change of pace from the previous section's heavy combat. 
+
+
+
 The latter also gives the player more room for error, along with flat surfaces just underneath platforms to catch them. 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
@@ -50,12 +64,9 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.2. Checkpoints
 
-### 2.3. Chompers
-
-### 2.7. Passthrough Platforms
-
-### 2.4. Health Pickups
-
+### 2.3. Chompers(& ### 2.7. Passthrough Platforms & ### 2.4. Health Pickups)
+![healthbox to entice pass-through learning](DocImages/pass-through-to-healthbox.jpeg)
+A slightly hidden optional introduction to pass through platforms positioned under where the player would fall if hit by introductory chomper. No weapons to deal with the chomper, only avoidance.
 ### 2.1. Acid
 
 ### 2.8. Spikes
@@ -67,7 +78,7 @@ You should restructure the headings below to match the order they appear in your
 
 
 ### 2.9. Spitters
-
+![Spitter introduction](DocImages/cave-jumper-take-2)
 ### 2.10. Weapon Pickup (Gun)
 
 
